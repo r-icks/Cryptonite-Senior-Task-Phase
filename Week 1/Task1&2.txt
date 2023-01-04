@@ -1,0 +1,26 @@
+Week 1
+
+Tasks:
+1. Dual boot or install a VM with Linux OS. Refer to a YouTube video for the same. ✔️
+
+	I have worked with linux before on both a dual booted system and virtual 			machine as well. I use Mac now. 
+	
+2. Create an account on Github. Familiarize with Git and Github commands using videos.  Make a repository for writeups. Make a detailed write-up for each task completed. ✔️
+
+	I have used git command line commands before and would be using them now again for uploading this file along with many others to come :)
+	
+
+
+
+3. Complete the first 12 levels of Bandit and maintain write-ups 
+
+
+Additional Tasks:
+1. Make an account on PicoCTF and complete 7 challenges from each domain. Then pick one domain and complete as many challenges as possible. Maintain writeups for the same.
+
+2.Read up on the following:
+
+	Cryptographic algorithms like DES, AES, Difficult Hellman etc
+	
+	Buffer, stack and heap overflow attacks
+
